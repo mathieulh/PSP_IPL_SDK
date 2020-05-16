@@ -73,6 +73,6 @@ finally,the original SDRAM driver should be made.
 ----------------------------------------
 Changelog (2018.3.23)
 
-- Moved to GPLv3 License (some crt0 code has "PANDORA'S BATTERY" code.
+- Moved to GPLv2 License (some crt0 code has "PANDORA'S BATTERY" code.
 Check readme.txt of "PANDORA'S BATTERY" for license.)
 - Added compatibility to GCC newer than 4.0.2
